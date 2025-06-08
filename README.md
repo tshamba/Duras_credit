@@ -1,8 +1,5 @@
 
-### Google Gemini Clone
 Build your own Generative AI App using Google Gemini API with Vanilla JavaScript. Create AI App like Google Gemini or ChatGPT step by step tutorial.
-
-In this tutorial ([Open in Youtube](https://youtu.be/Klcpzw_nvLU)), you will learn to create your own Generative AI app like Google Gemini or ChatGPT using vanilla JavaScript. In this step-by-step tutorial, we will create a Gemini clone app using the Gemini API for absolutely free. You can build this Google Gemini app for your college project or personal portfolio.
 
 - Introduction to AI-Powered Chat Apps: Learn how to create a generative AI app similar to Google Gemini or ChatGPT using vanilla JavaScript. 🤖
 - Connecting with the Gemini API: Discover how to use the Gemini API to add AI capabilities to your app, allowing for natural language conversations and responses. 🌐
